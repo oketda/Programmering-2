@@ -1,0 +1,9 @@
+
+Q
+java:S3655¥"5Call "result.isPresent()" before accessing the value.(¦‘Ó•şÿÿÿÿ
+j
+java:S1450"TRemove the "table" field and declare it as a local variable in the relevant methods.(À¯ªê
+E
+java:S5413Š")Verify that "remove()" is used correctly.(¿Şşÿÿÿÿ
+^
+java:S1117—"BRename "observableList" which hides the field declared at line 20.(±Ë÷‚ÿÿÿÿÿ

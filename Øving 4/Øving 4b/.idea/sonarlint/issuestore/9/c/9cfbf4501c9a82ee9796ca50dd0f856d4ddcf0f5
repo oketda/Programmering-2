@@ -1,0 +1,8 @@
+
+2
+java:S1643d"Use a StringBuilder instead.(ã§Ûë
+r	java:S1279"XRefactor the code in order to not assign to this loop counter from within the loop body.(Õí¨±ûÿÿÿÿ
+R
+java:S25892"7Remove this expression which always evaluates to "true"(ÑÒŸ¹øÿÿÿÿ
+3
+java:S2119/"Save and re-use this "Random".(¼ÝÅf

@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+q
+java:S1450"TRemove the "table" field and declare it as a local variable in the relevant methods.(À¯ªê8ô¨ÔÜ’.
+e
+java:S1117—"BRename "observableList" which hides the field declared at line 20.(±Ë÷‚ÿÿÿÿÿ8ÍíÜ’.

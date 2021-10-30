@@ -1,0 +1,6 @@
+apr. 27, 2020 1:29:35 P.M. TestClient.testClient main
+SEVERE: java.lang.IllegalArgumentException: Animal myst have a name
+java.lang.IllegalArgumentException: Animal myst have a name
+	at no.ntnu.idatx2001.oblig5.zoo.WildAnimalFactory.newFemaleWolf(WildAnimalFactory.java:26)
+	at TestClient.testClient.main(testClient.java:25)
+

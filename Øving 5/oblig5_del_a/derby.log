@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Apr 27 11:53:57 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-bb0e-bc9d-00000439b460 
+on database directory /Users/Herman/OneDrive - NTNU/NTNU 2. semester/Programmering 2/oblig5_del_a/contactsdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Users/Herman/OneDrive%20-%20NTNU/NTNU%202.%20semester/Programmering%202/oblig5_del_a/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=/Users/Herman/OneDrive - NTNU/NTNU 2. semester/Programmering 2/oblig5_del_a
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

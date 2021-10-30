@@ -1,0 +1,31 @@
+
+g
+java:S1871T"LThis branch's code block is the same as the block for the branch on line 78.(€¢‡²şÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ŒĞ›ıÿÿÿÿ
+r	java:S127-"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸­ÿÇıÿÿÿÿ
+g
+java:S1871W"LThis branch's code block is the same as the block for the branch on line 78.(ìÕ¡üüÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¬ Î“ÿÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(„øÖ÷
+N
+java:S1854"8Remove this useless assignment to local variable "card".(Ÿ’ÊÓ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(æö×¨
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(áßÑ¡
+.
+java:S1700"Rename field "deck"(ˆ²õúÿÿÿÿ
+L
+java:S3655D"7Call "Optional#isPresent()" before accessing the value.(şªõw
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(š’è•şÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ïÒêş
+g
+java:S1871Q"LThis branch's code block is the same as the block for the branch on line 78.(…Ëœıúÿÿÿÿ
+?
+java:S1481")Remove this unused "card" local variable.(Ÿ’ÊÓ
+M	java:S106D"9Replace this use of System.out or System.err by a logger.(şªõw
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Çµí‘

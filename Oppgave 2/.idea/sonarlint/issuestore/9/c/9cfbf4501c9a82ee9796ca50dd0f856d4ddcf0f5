@@ -1,0 +1,10 @@
+
+:
+java:S2119/"Save and re-use this "Random".(¼ÝÅf8†ˆ¸Ü’.
+9
+java:S1643d"Use a StringBuilder instead.(ã§Ûë8†ˆ¸Ü’.
+y	java:S1279"XRefactor the code in order to not assign to this loop counter from within the loop body.(Õí¨±ûÿÿÿÿ8†ˆ¸Ü’.
+0
+java:S1220""Move this file to a named package.
+Y
+java:S25892"7Remove this expression which always evaluates to "true"(ÑÒŸ¹øÿÿÿÿ8†ˆ¸Ü’.
